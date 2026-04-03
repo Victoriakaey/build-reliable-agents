@@ -1,0 +1,21 @@
+{
+  "name": "build-reliable-agents",
+  "description": "15 engineering skills covering the full LLM agent development lifecycle: problem exploration, architecture decisions, prompt design, experiment-driven development, prompt change management, regression testing, critic/judge design, full-stack integration, AI system design, database design, model selection, memory systems, harness design, DevOps, and code review",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jiaqi Duan",
+    "email": "jd.victoria.work@gmail.com"
+  },
+  "homepage": "https://github.com/Victoriakaey/build-reliable-agents",
+  "repository": "https://github.com/Victoriakaey/build-reliable-agents",
+  "license": "MIT",
+  "keywords": [
+    "llm",
+    "agents",
+    "prompt-engineering",
+    "reliability",
+    "skills",
+    "regression-testing",
+    "critic-judge"
+  ]
+}
