@@ -206,7 +206,7 @@ If a component does two things, split it. The extra LLM call is cheaper than the
 
 ```bash
 git clone https://github.com/Victoriakaey/build-reliable-agents.git
-cp -r build-reliable-agents/skills/ /mnt/skills/user/llm-systems/
+cp -r build-reliable-agents/skills/ /mnt/skills/user/build-reliable-agents/
 ```
 
 ### Verify
