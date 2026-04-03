@@ -1,6 +1,6 @@
 {
   "name": "build-reliable-agents",
-  "description": "Engineering skills for building LLM agents that actually work in production",
+  "description": "An engineering operating system for building reliable LLM agents — 15 skills covering the full lifecycle from system design to production deployment",
   "owner": {
     "name": "Jiaqi Duan",
     "email": "jd.victoria.work@gmail.com"
@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "build-reliable-agents",
-      "description": "8 engineering skills covering the full LLM agent development lifecycle: problem exploration, architecture decisions, prompt design, experiment-driven development, regression testing, critic/judge design, and full-stack integration",
+      "description": "15 engineering skills covering the full LLM agent development lifecycle: system design, problem exploration, architecture decisions, prompt design, experiment-driven development, prompt change management, regression testing, critic/judge design, harness design, full-stack integration, database design, model selection, memory systems, DevOps, and code review",
       "version": "1.0.0",
       "source": "./",
       "author": {
